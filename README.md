@@ -28,11 +28,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-line.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp; 
       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp; 
-</div>
-
-<div align="center">
+  
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisdudamel&theme=solarized-dark&background=FFFFFF)
 </div>
+
+
+
 
 
 
