@@ -31,7 +31,7 @@
 </div>
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisdudamel&theme=solarized-dark&background=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisdudamel&theme=solarized-dark&background=FFFFFF)]
 
 
 
