@@ -1,7 +1,9 @@
 <div id="header" align="center">
+
+
+  
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
-</div>
-<div align ="center" id="badges">
+  <br>
   <a href="https://www.linkedin.com/in/luis-dudamel/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -10,8 +12,24 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<div align ="center" id="badges">
+  
+---
+
+### :man_technologist: About Me :
+  
+ I'm a full stack web developer, specialized on React / Redux + NodeJs / MongoDb
+ Always learning and eager to find new ways to solve problems.
+ 
+ Tell your dog I said hi!
+</div>
 
 <div align="center">
+  
+---
+
+### :hammer_and_wrench: Languages and Tools :
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -29,13 +47,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp; 
       <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp; 
   
+---
+
+### :fire: My Stats :  
+  
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisdudamel&theme=solarized-dark&background=FFFFFF)
   
   
-  
-  
-  
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=luisdudamel&theme=solarized-dark&background=FFFFFF)&nbsp; 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdudamel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)&nbsp; 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisdudamel&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats) 
 
 </div>
 
